@@ -13,3 +13,5 @@
 ### 과제 내용
 ----------------------------------
 ####인트로 영상
+<img width = "80%" src = "https://user-images.githubusercontent.com/75197352/169996041-c5681488-9fac-492f-91b6-9d7b7e2d4428.gif"/>
+
