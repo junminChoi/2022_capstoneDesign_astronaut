@@ -1,6 +1,6 @@
 # 2022_capstoneDesign
 
-<img width = "80%" src = "https://user-images.githubusercontent.com/75197352/169991333-bfd23a78-fc1e-432c-83f0-ff062248aec8.jpg"/>
+<img src = "https://user-images.githubusercontent.com/75197352/169991333-bfd23a78-fc1e-432c-83f0-ff062248aec8.jpg"/>
 
 ### 과제 요약
 ----------------------------------
@@ -21,32 +21,32 @@ Unreal Engine 5
 ### 과제 내용
 ----------------------------------
 #### 인트로
-<img width = "80%" src = "https://user-images.githubusercontent.com/75197352/169996041-c5681488-9fac-492f-91b6-9d7b7e2d4428.gif"/>
+<img src = "https://user-images.githubusercontent.com/75197352/169996041-c5681488-9fac-492f-91b6-9d7b7e2d4428.gif"/>
 
 #### 플레이 화면
-<img width = "80%" src = "https://user-images.githubusercontent.com/75197352/170490476-9e599092-a7d5-46ca-8478-006cbba4bf43.jpg"/>
-<img width = "80%" src = "https://user-images.githubusercontent.com/75197352/170491688-a4b9d73b-c40c-43fb-9452-cd9507f85af3.jpg"/>
+<img  src = "https://user-images.githubusercontent.com/75197352/170490476-9e599092-a7d5-46ca-8478-006cbba4bf43.jpg"/>
+<img  src = "https://user-images.githubusercontent.com/75197352/170491688-a4b9d73b-c40c-43fb-9452-cd9507f85af3.jpg"/>
 
 
 #### 레벨 디자인
 ##### - 건물 설계 및 디자인
-<img width = "40%" src = "https://user-images.githubusercontent.com/75197352/170490470-9c1e27d1-ef76-4ea9-97fc-88d825336bad.jpg"/>    <img width = "40%" src = "https://user-images.githubusercontent.com/75197352/170490475-8fd4eb85-8c90-4eeb-afa5-905879917c11.jpg"/>
+<img width = "45%" src = "https://user-images.githubusercontent.com/75197352/170490470-9c1e27d1-ef76-4ea9-97fc-88d825336bad.jpg"/>    <img width = "45%" src = "https://user-images.githubusercontent.com/75197352/170490475-8fd4eb85-8c90-4eeb-afa5-905879917c11.jpg"/>
 <br>
 
 ##### - 태양계 구현
-<img width = "80%" src = "https://user-images.githubusercontent.com/75197352/170490699-8293429d-e5df-4aa0-b2d5-0f3ca13e9cb1.jpg"/>
+<img src = "https://user-images.githubusercontent.com/75197352/170490699-8293429d-e5df-4aa0-b2d5-0f3ca13e9cb1.jpg"/>
 
 
 ##### - 달 위 디자인된 건물 추가
-<img width = "80%" src = "https://user-images.githubusercontent.com/75197352/170490702-380ad0f5-8b33-4234-a740-09c1566e3954.jpg"/>
+<img  src = "https://user-images.githubusercontent.com/75197352/170490702-380ad0f5-8b33-4234-a740-09c1566e3954.jpg"/>
 
 ####  UI
 
 ##### - 상점 및 인벤토리 UI 구현
-<img width = "30%" src = "https://user-images.githubusercontent.com/75197352/170490696-bea06d09-dcb9-4d30-8744-488100398df1.jpg"/> <img width = "30%" src = "https://user-images.githubusercontent.com/75197352/170490691-f03dbf1f-a46f-401e-8ee7-21e85d01a03b.jpg"/>
+<img width = "40%" src = "https://user-images.githubusercontent.com/75197352/170490696-bea06d09-dcb9-4d30-8744-488100398df1.jpg"/> <img width = "40%" src = "https://user-images.githubusercontent.com/75197352/170490691-f03dbf1f-a46f-401e-8ee7-21e85d01a03b.jpg"/>
 
 ##### - 스킬 UI 구현
-<img width = "80%" src = "https://user-images.githubusercontent.com/75197352/170490695-b8232fd2-42e2-429e-a843-364d52bd6c8f.jpg"/>
+<img " src = "https://user-images.githubusercontent.com/75197352/170490695-b8232fd2-42e2-429e-a843-364d52bd6c8f.jpg"/>
 
 ### 시연 영상
 ----------------------------------
