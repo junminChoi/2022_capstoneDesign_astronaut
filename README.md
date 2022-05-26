@@ -64,5 +64,9 @@ Unreal Engine 5
 --------------------------------
 [https://drive.google.com/file/d/1wKau6MeNvO5TkEGyRLl4w_uTZ4l6hH0A/view?usp=sharing](https://drive.google.com/file/d/1m_hwfx-mvFnol6ZoTpWCg89SQAMyySAE/view?usp=sharing)
 <br>
-파일 크기 문제로 구글 드라이브 링크로 대체합니다.
+파일 크기 문제 자동 빌드가 가능한 기본 파일은 삭제 후 업로드하였습니다.
+원본은 구글 드라이브 링크로 첨부하였습니다.
+
+- UE 5.0.1v 이상 사용 가능
+
 
