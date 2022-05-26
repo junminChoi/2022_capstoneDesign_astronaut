@@ -24,7 +24,8 @@ Unreal Engine 5
 <img width = "80%" src = "https://user-images.githubusercontent.com/75197352/169996041-c5681488-9fac-492f-91b6-9d7b7e2d4428.gif"/>
 
 #### 레벨 디자인
-<img width = "80%" src = "[https://user-images.githubusercontent.com/75197352/169996041-c5681488-9fac-492f-91b6-9d7b7e2d4428.gif](https://user-images.githubusercontent.com/75197352/170490476-9e599092-a7d5-46ca-8478-006cbba4bf43.jpg)"/>
+<img width = "80%" src = "https://user-images.githubusercontent.com/75197352/169996041-c5681488-9fac-492f-91b6-9d7b7e2d4428.gif/>
+                          (https://user-images.githubusercontent.com/75197352/170490476-9e599092-a7d5-46ca-8478-006cbba4bf43.jpg)
 ![건물디자인](https://user-images.githubusercontent.com/75197352/170490470-9c1e27d1-ef76-4ea9-97fc-88d825336bad.jpg)
 ![건물디자인2](https://user-images.githubusercontent.com/75197352/170490475-8fd4eb85-8c90-4eeb-afa5-905879917c11.jpg)
 
