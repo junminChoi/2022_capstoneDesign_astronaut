@@ -23,10 +23,17 @@ Unreal Engine 5
 #### 인트로 영상
 <img width = "80%" src = "https://user-images.githubusercontent.com/75197352/169996041-c5681488-9fac-492f-91b6-9d7b7e2d4428.gif"/>
 
-태양계
-<img width = "80%" src = "https://user-images.githubusercontent.com/75197352/169998685-a48de208-62b1-4ed4-ae17-20fcdcc17bf7.gif"/>
-                          
+#### 레벨 디자인
 
+                          
+   
+####  UI
+
+스킬 트리
+
+상점
+
+인벤토리
 ### 프로젝트 소스
 --------------------------------
 파일 크기 문제로 구글 드라이브 링크로 대체합니다.
