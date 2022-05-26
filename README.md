@@ -10,11 +10,17 @@
 ----------------------------------
 김재석, 최준민, 박시연, 홍채림
 
+### 기술 스택
+---------------------------------
+<img alt="Python" src ="https://img.shields.io/badge/Unreal-#0E1128.svg?&style=for-the-badge&logo=Unreal&logoColor=white"/>
+
 ### 과제 내용
 ----------------------------------
-####인트로 영상
+#### 인트로 영상
 <img width = "80%" src = "https://user-images.githubusercontent.com/75197352/169996041-c5681488-9fac-492f-91b6-9d7b7e2d4428.gif"/>
 
 태양계
 <img width = "80%" src = "https://user-images.githubusercontent.com/75197352/169998685-a48de208-62b1-4ed4-ae17-20fcdcc17bf7.gif"/>
                           
+
+
