@@ -12,7 +12,7 @@
 
 ### 기술 스택
 ---------------------------------
-<img alt="Unreal" src ="https://img.shields.io/badge/unreal-#0E1128.svg?&style=for-the-badge&logo=unreal&logoColor=white"/>
+<img alt="UnrealEngine" src ="https://img.shields.io/badge/UnrealEngine-#0E1128.svg?&style=for-the-badge&logo=UnrealEngine&logoColor=white"/>
 
 ### 과제 내용
 ----------------------------------
