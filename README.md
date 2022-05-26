@@ -27,4 +27,7 @@ Unreal Engine 5
 <img width = "80%" src = "https://user-images.githubusercontent.com/75197352/169998685-a48de208-62b1-4ed4-ae17-20fcdcc17bf7.gif"/>
                           
 
-
+### 프로젝트 소스
+--------------------------------
+파일 크기 문제로 구글 드라이브 링크로 대체합니다.
+https://drive.google.com/file/d/1wKau6MeNvO5TkEGyRLl4w_uTZ4l6hH0A/view?usp=sharing
