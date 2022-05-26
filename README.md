@@ -12,7 +12,7 @@
 
 ### 기술 스택
 ---------------------------------
-<img src ="file:///C:/Users/junmin/Downloads/unrealengine.svg"/>
+<img width = "20%" src ="https://user-images.githubusercontent.com/75197352/170468738-609bbc2b-df15-4ff0-a818-2df1968566df.svg"/>
 
 ### 과제 내용
 ----------------------------------
