@@ -13,6 +13,10 @@
 ### 기술 스택
 ---------------------------------
 <img width = "10%" src ="https://user-images.githubusercontent.com/75197352/170468738-609bbc2b-df15-4ff0-a818-2df1968566df.svg"/>
+Unreal Engine 5
+<br>
+프로그래밍 언어 : C++
+
 
 ### 과제 내용
 ----------------------------------
